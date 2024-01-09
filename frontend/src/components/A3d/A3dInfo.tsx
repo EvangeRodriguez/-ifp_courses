@@ -4,7 +4,7 @@ export default function A3dInfo() {
   return (
     <div> 
         <h1>
-            <Link to='https://www.ifp.es/FP-barcelona/imagen-y-sonido/animaciones-3d-juegos-y-entornos-interactivos-barcelona-cloned'>
+            <Link to='https://www.ifp.es/FP-barcelona/imagen-y-sonido/animaciones-3d-juegos-y-entornos-interactivos-barcelona-cloned' target='_blank'>
             A3D - ANIMACIÓN 3D y JUEGOS INTERACTIVOS
             </Link>
                 </h1>
